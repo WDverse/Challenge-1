@@ -4,7 +4,7 @@
 ## Description
 
 
-This Horiseon webpage was created for their clients. It has codbase that follows accesisblity standards to optimize the website for search engines. The webpage contains insights on Search Engine Optimization, Online Reputation Management, Social Media Marketing, Lead Generation, Brand Awareness and Cost Management. Through this project, I realised semantic elements made webpages more accessible. Furthermore, the addition of comments to a CSS file makes the file more readable. Lastly, the project gave me the opportunity to examine the functions of the various CSS selector types.
+This webpage was created for Horiseon. It has a codbase that follows accessibility  standards to optimize the website for search engines. The webpage contains insights on Search Engine Optimization, Online Reputation Management, Social Media Marketing, Lead Generation, Brand Awareness and Cost Management. Through this project, I realised semantic elements made webpages more accessible. Furthermore, the addition of comments to a CSS file makes the file more readable. Lastly, the project gave me the opportunity to examine the functions of the various CSS selector types.
 
 
 ## Installation
