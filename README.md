@@ -37,5 +37,5 @@ N/A
 
 
 Here is the link to the webpage:
-[Horison Webpage.](https://wdverse.github.io/Horiseon-Social-Solution-Services/)
+[Horiseon Webpage.](https://wdverse.github.io/Horiseon-Social-Solution-Services/)
 
