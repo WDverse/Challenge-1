@@ -1,13 +1,16 @@
+/* Applies the property values to all HTML elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Sets the background color of the body element to the property value */
 body {
     background-color: #d9dcd6;
 }
 
+/* Applies the property values to the header element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Applies the property values to the first heading element inside the header element */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Sets the element with class="seo" to the property value */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Sets the navigation element in the header element to the property values */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Sets the unordered list element in the navigation element and header element to the property value */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Sets the list elements in these parent elements to the property value */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Sets the anchor elements to the property values */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Sets the paragraph elements to a font size of 16 */
 p {
     font-size: 16px;
 }
 
-.hero {
+/* Sets the element with class="hero" to the property values */
+.digital-marketing-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,22 +69,26 @@ p {
     background-position: center;
 }
 
+/* Sets the element with class="float-left" to the property values */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets the element with class="float-right" to the property values */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets the element with class="content" to the property values */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets the element with class="benefits" to the property values */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +100,64 @@ p {
     background-color: #2589bd;
 }
 
+/* Sets the element with class="benefit-lead" to the property values */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets the element with class="benefit-brand" to the property values */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets the element with class="benefit-cost" to the property values */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets the third heading element with class="benefit-lead" to the property values */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Sets the third heading element with class="benefit-brand" to the property values */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Sets the third heading element with class="benefit-cost" to the property values */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Sets the image element with class="benefit-lead" to the property values */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets the image element with class="benefit-brand" to the property values */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets the image element with class="benefit-cost" to the property values */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets the element with class="search-engine-optimization" to the property values */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +167,7 @@ p {
     color: #ffffff;
 }
 
+/* Sets the element with class="online-reputation-management" to the property values */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +177,7 @@ p {
     color: #ffffff;
 }
 
+/* Sets the element with class="social-media-marketing" to the property values */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,33 +187,40 @@ p {
     color: #ffffff;
 }
 
+/* Sets the image element with class="search-engine-optimization" to the property value */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Sets the image element with class="online-reputation-management" to the property value */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* Sets the image element with class="social-media-marketing" to the property value */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Sets the second heading element with class="search-engine-optimization" to the property values */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets the second heading element with class="online-reputation-management" to the property values */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets the second heading element with class="social-media-marketing" to the property values */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets the footer element to the property values */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +228,7 @@ p {
     text-align: center;
 }
 
+/* Sets the fourth heading in the footer element to a font size of 20px */
 .footer h4 {
     font-size: 20px;
 }
